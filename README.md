@@ -2,7 +2,7 @@
 
 A1: RESEARCH QUESTION:
 
-How can we predict the daily revenue using historical data?
+"How can we predict the daily revenue using historical data?"
 
 A2: OBJECTIVES OR GOALS:
 
